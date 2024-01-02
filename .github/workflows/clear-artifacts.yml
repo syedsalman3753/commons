@@ -12,4 +12,4 @@ on:
 jobs:
   delete-artifacts:
     uses: syedsalman3753/kattu/.github/workflows/clear-artifacts.yml@master
-    secrets: inherit
+    #secrets: inherit
